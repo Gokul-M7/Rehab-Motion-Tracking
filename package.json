@@ -1,5 +1,6 @@
 {
   "name": "rehab-motion-tracker",
+  "homepage": "https://gokul-m7.github.io/Rehab-Motion-Tracking",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
